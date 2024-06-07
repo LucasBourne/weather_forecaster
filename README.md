@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-06-07 at 12 24 47](https://github.com/LucasBourne/weather_forecaster/assets/21283251/c128db6d-5051-4351-a669-f41b11d24f79)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-06-07 at 12 24 47](https://github.com/LucasBourne/weather_forecaster/assets/21283251/fcbb6118-721d-4252-820b-e629b3f03749)
 
 # Steps to build:
 - Add `city.list.json` to `assets/city.list.json`
